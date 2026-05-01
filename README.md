@@ -54,7 +54,8 @@ These results show that the Spark ML pipeline performs well on the Titanic survi
 ## 🧪 Project Purpose
 The goal of this project is to show how Spark ML can be used to build a scalable and repeatable machine learning workflow for a classic classification problem. It demonstrates how preprocessing, feature transformation, and model training can be combined into a single pipeline. The notebook also emphasizes clean data handling through Spark SQL and DataFrames.
 
----
+
 
 ## 🗂 Repository Structure
-- Code - SparkML-Titanic-Classification.ipynb
+- SparkML-Titanic-Classification.ipynb : Full Jupyter Notebook with Code and Step-by-Step Guide
+- Spark-TitanicSurvival-Classification : Databricks.pdf - PDF verison of the Jupyter notebook
