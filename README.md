@@ -46,6 +46,7 @@ This project was a part of an MSBA course on Big Data Analytics as a practical i
 - AUC:      0.8209
 - F1 Score: 0.7778
 - Accuracy: 0.7840
+
 These results show that the Spark ML pipeline performs well on the Titanic survival classification task while keeping the workflow scalable and reproducible.
 
 ---
