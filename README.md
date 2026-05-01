@@ -56,4 +56,4 @@ The goal of this project is to show how Spark ML can be used to build a scalable
 ---
 
 ## 🗂 Repository Structure
-- SparkML-Titanic-Classification.ipynb
+- Code - SparkML-Titanic-Classification.ipynb
